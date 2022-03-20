@@ -10,3 +10,6 @@ You may redistribute and modify this documentation under the terms of the CERN O
 # PDC Pixel Controllers
 
 PDC Pixel Controllers can be used with either a BeagleBone Black (Rev C), BeagleBone Black Wireless or a BeagleBone Green (not the wireless version). All the controllers are modular allowing many configurations and all run on FPP software. Tested ready to run versions can be purchased from me direct however the design files are open source and available on GitHub, EasyEDA was used for the PCB designs.
+
+
+https://github.com/open-PDC/BeagleBone-Pixel-Controllers/blob/8fcdea58e134a8ae415a7da3bb5f705b9b5da090/PDC-48-Flex/README.md
