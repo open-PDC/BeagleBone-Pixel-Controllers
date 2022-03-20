@@ -8,3 +8,5 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 
 # PDC Pixel Controllers
+
+PDC Pixel Controllers can be used with either a BeagleBone Black (Rev C), BeagleBone Black Wireless and BeagleBone Green (not the wireless version). All controllers are modular allowing many configurations and run FPP software.
