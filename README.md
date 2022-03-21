@@ -11,7 +11,7 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 PDC Pixel Controllers can be used with either a BeagleBone Black (Rev C), BeagleBone Black Wireless or a BeagleBone Green (not the wireless version). All the controllers are modular allowing many configurations and all run on FPP software. Tested ready to run versions can be purchased from me direct however the design files are open source and available on GitHub, EasyEDA was used for the PCB designs.
 
-# Contoller Boards
+## Controller Boards
 
 All board variants have a total of 48 Pixel Strings.
 
