@@ -15,7 +15,7 @@ PDC Pixel Controllers can be used with either a BeagleBone Black (Rev C), Beagle
 
 All board variants have a total of 48 Ports for Pixel Strings and are powered by **5volts DC ONLY!**.
 
-**Note:** All board variants supply the Data signal only and **do not supply power for the pixels!** To power pixels a F8-Distro Board or similar, a Auto/Marine Fuse box must be used.
+**Note:** All board variants supply the Data signal only and **do not supply power for the pixels!** To power pixels, an F8-Distro Board or similar, or an Auto/Marine Fuse box should be used.
 
 * [**PDC-48-48**](PDC-48-48/README.md) - PDC-48-48 with 12 Differential Ports.
 * [**PDC-48-16**](PDC-48-16/README.md) - PDC-48-16 with 8 Differential Ports and 16 Local Ports.
