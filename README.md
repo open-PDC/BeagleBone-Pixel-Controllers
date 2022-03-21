@@ -1,6 +1,6 @@
 # Copyright and Disclaimer
 
-Copyright: Gavin Douglass
+Copyright: PDC
 
 This documentation describes Open Hardware and is licensed under the CERN OHL v. 1.2.
 
