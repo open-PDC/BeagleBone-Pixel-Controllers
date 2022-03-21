@@ -18,4 +18,5 @@ All board variants have a total of 48 Pixel Strings.
 * [**PDC-48-48**](PDC-48-48/README.md) - PDC-48-48 with 12 Differential Ports.
 * [**PDC-48-16**](PDC-48-16/README.md) - PDC-48-16 with 8 Differential Ports and 16 Local Ports.
 * [**PDC-48-32**](PDC-48-32/README.md) - PDC-48-32 with 4 Differential Ports and 32 Local Ports.
+* [**PDC-48-Flex**](PDC-48-Flex/README.md) - PDC-48-Flex A modular stacked system similar to the Holiday Coro Flex system but **NOT COMPATIBLE!**
 
