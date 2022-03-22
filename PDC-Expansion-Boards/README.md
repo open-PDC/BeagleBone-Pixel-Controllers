@@ -18,3 +18,5 @@ PDC-Differential-Receiver-4 can be used to receive pixel data up to 200 feet awa
 
 PDC-Differential-Receiver-16 can be used to receive pixel data up to 200 feet away from the controller or if installed next to the controller provide 16 local ports.
 
+![Image of PDC-Differential-Receiver-16](https://github.com/open-PDC/BeagleBone-Pixel-Controllers/blob/main/PDC-Expansion-Boards/PDC-Differential-Receiver-16.png)
+
