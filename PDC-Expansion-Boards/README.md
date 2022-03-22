@@ -10,7 +10,7 @@ PDC Expansion Boards are desinged to work only with PDC Controllers and are **no
 
 ## PDC Differential Board
 
-Up to 3 can be connected to the a PDC-48-Flex-Controller and can transmit pixel data up to 200 feet from the controller. 
+Up to 3 PDC Differential Boards can be connected to a PDC-48-Flex-Controller and can transmit pixel data up to 200 feet from the controller. 
 
 ![Image of PDC-Differential-Board](https://github.com/open-PDC/BeagleBone-Pixel-Controllers/blob/main/PDC-Expansion-Boards/PDC-Differential-Board.png)
 
