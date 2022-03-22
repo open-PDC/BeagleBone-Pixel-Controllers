@@ -8,6 +8,6 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 ## PDC 48 Flex Controller
 
-PDC 48 Flex Controllers are designed to be used with either a BeagleBone Black (Rev C), BeagleBone Black Wireless or a BeagleBone Green (not the wireless version) and all run on FPP software. They are all fully tested ready to run with FPP installed on a MicroSD card.
+PDC 48 Flex Controllers are designed to be used with either a BeagleBone Black (Rev C), BeagleBone Black Wireless or a BeagleBone Green (not the wireless version) and all run on FPP software. They are all fully tested ready to run with FPP installed and configured on a MicroSD card. Instructions and necessary hardware is also included.
 
 ![Image of PDC-48-Flex-Controller](https://github.com/open-PDC/BeagleBone-Pixel-Controllers/blob/main/PDC-48-Flex/PDC-48-Flex-Controller.png)
