@@ -20,3 +20,5 @@ All board variants have a total of 48 Ports for Pixel Strings. I2C connections a
 * [**PDC-48-Flex**](PDC-48-Flex/README.md) - PDC-48-Flex A modular stacked system similar to the Holiday Coro Flex system but **NOT COMPATIBLE!** with up to 12 Differential Ports.
 
 ## Expansion Boards
+
+* [**PDC-Expansion Boards**](Expansion-Boards/README.md) - PDC-48-Flex A modular stacked system similar to the Holiday Coro Flex system but **NOT COMPATIBLE!** with up to 12 Differential Ports.
