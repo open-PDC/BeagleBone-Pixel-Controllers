@@ -9,7 +9,7 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 # PDC Pixel Controllers
 
-PDC Pixel Controllers must be used with either a BeagleBone Black (Rev C), BeagleBone Black Wireless or a BeagleBone Green (not the wireless version) and all run on FPP software. **Tested ready to run Controllers with FPP installed on a MicroSD card can be purchased from me direct** however, the design files are open source and available on GitHub. EasyEDA was used for the PCB designs.
+PDC Pixel Controllers must be used with either a BeagleBone Black (Rev C), BeagleBone Black Wireless or a BeagleBone Green (not the wireless version) and all run on FPP software. **Fully tested ready to run Controllers with FPP installed on a MicroSD card can be purchased from me direct** however, the design files are open source and available on GitHub. EasyEDA was used for the PCB designs.
 
 ## Controller Boards
 
