@@ -21,4 +21,5 @@ All board variants have a total of 48 Ports for Pixel Strings. I2C connections a
 
 ## Expansion Boards
 
-* [**PDC-Expansion-Boards**](PDC-Expansion-Boards/README.md) - PDC- Expansion Boards designed for the PDC-48-Flex modular stacked system.
+* [**PDC-Expansion-Boards**](PDC-Expansion-Boards/README.md) - PDC Expansion Boards designed for the PDC-48-Flex modular stacked system.
+
