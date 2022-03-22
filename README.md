@@ -13,12 +13,9 @@ PDC Pixel Controllers must be used with either a BeagleBone Black (Rev C), Beagl
 
 ## Controller Boards
 
-All board variants have a total of 48 Ports for Pixel Strings plus 2 DMX Ports. I2C connections are provided for a DS3231-AT24C32 RTC and a SSD1306 128x64 OLED Display.
+All board variants have a total of 48 Ports for Pixel Strings. I2C connections are provided for a DS3231-AT24C32 RTC and a SSD1306 128x64 OLED Display.
 
 **Note:** All board variants are powered by **5volts DC!** and only supply the Data signal, they **do not supply power for pixels!** To power pixels, an F8-Distro Board or similar, or an Auto/Marine Fuse box should be used.
 
-* [**PDC-48-48**](PDC-48-48/README.md) - PDC-48-48 with 12 Differential Ports plus 2 DMX Ports.
-* [**PDC-48-16**](PDC-48-16/README.md) - PDC-48-16 with 8 Differential Ports and 16 Local Ports plus 2 DMX Ports.
-* [**PDC-48-32**](PDC-48-32/README.md) - PDC-48-32 with 4 Differential Ports and 32 Local Ports plus 2 DMX Ports.
-* [**PDC-48-Flex**](PDC-48-Flex/README.md) - PDC-48-Flex A modular stacked system similar to the Holiday Coro Flex system but **NOT COMPATIBLE!** with 12 Differential Ports plus 2 DMX Ports.
+* [**PDC-48-Flex**](PDC-48-Flex/README.md) - PDC-48-Flex A modular stacked system similar to the Holiday Coro Flex system but **NOT COMPATIBLE!** with up to 12 Differential Ports.
 
